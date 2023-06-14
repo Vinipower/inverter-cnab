@@ -12,12 +12,7 @@ Este programa lê um arquivo de texto e inverte as posições de determinadas pa
 2. Faça o download do código-fonte para um diretório local.
 3. No diretório onde o código-fonte está localizado, crie um arquivo de entrada chamado `input.txt` contendo o texto que deseja processar.
 4. Abra um terminal ou prompt de comando e navegue até o diretório onde o código-fonte está localizado.
-5. Execute o seguinte comando para iniciar o programa:
-
-```prompt
-python nome_do_arquivo.py
-
-
+5. Execute o seguinte comando para iniciar o programa: prompt - python nome_do_arquivo.py
 6. Siga as instruções exibidas no terminal.
 7. O programa exibirá uma barra de progresso indicando o carregamento.
 8. Após a conclusão, o texto invertido será salvo em um arquivo de saída chamado output.txt.
